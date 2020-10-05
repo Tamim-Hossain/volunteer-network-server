@@ -34,7 +34,7 @@ client.connect(err => {
     })
 
     app.get('/register', (req, res) => {
-        registersCollection.find({})
+        registersCollection.find({ email: req.query.email })
             .toArray((err, documents) => {
                 res.send(documents);
             })
