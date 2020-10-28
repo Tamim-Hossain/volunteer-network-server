@@ -15,8 +15,7 @@ People can host an event, cancel the event they hosted. Admin can do what visito
 - MongoDB  
 - Heroku  
 - Bootstrap  
-- Firebase aut  
+- Firebase auth
 
-### **Useful Links:**
-[Live Website](https://network-volunteer.web.app/)  
-[Client-side repository](https://github.com/Tamim-Hossain/volunteer-network-client)
+### **Useful links:**
+[Live Website](https://network-volunteer.web.app/) | [Client-side repository](https://github.com/Tamim-Hossain/volunteer-network-client)
